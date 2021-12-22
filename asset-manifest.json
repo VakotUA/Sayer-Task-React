@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.js": "/Sayer-Task-React/static/js/main.5f55fd9c.chunk.js",
+    "main.js.map": "/Sayer-Task-React/static/js/main.5f55fd9c.chunk.js.map",
+    "runtime-main.js": "/Sayer-Task-React/static/js/runtime-main.53ea03fa.js",
+    "runtime-main.js.map": "/Sayer-Task-React/static/js/runtime-main.53ea03fa.js.map",
+    "static/css/2.818011ed.chunk.css": "/Sayer-Task-React/static/css/2.818011ed.chunk.css",
+    "static/js/2.20c5a128.chunk.js": "/Sayer-Task-React/static/js/2.20c5a128.chunk.js",
+    "static/js/2.20c5a128.chunk.js.map": "/Sayer-Task-React/static/js/2.20c5a128.chunk.js.map",
+    "index.html": "/Sayer-Task-React/index.html",
+    "static/css/2.818011ed.chunk.css.map": "/Sayer-Task-React/static/css/2.818011ed.chunk.css.map",
+    "static/js/2.20c5a128.chunk.js.LICENSE.txt": "/Sayer-Task-React/static/js/2.20c5a128.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.53ea03fa.js",
+    "static/css/2.818011ed.chunk.css",
+    "static/js/2.20c5a128.chunk.js",
+    "static/js/main.5f55fd9c.chunk.js"
+  ]
+}
